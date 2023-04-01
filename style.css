@@ -1,0 +1,38 @@
+
+.container{
+    border: 1px solid black;
+    width: 30%;
+    height: 40%;
+    margin: auto;
+    padding: 10px 5px;
+    text-align: center;
+    display: flexbox;
+    background-color: rgba(47, 151, 211, 0.527)
+}
+.container h2{
+    text-align: center;
+}
+label{
+    text-align: left;
+    margin-top: 10px;
+}
+.container input{
+    text-align: right;
+}
+#btn{
+    background-color: rgb(22, 53, 155);
+    margin: 10px 10px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 8px;
+    
+}
+.result{
+    background-color: rgb(89, 169, 172);
+    width: 30%;
+    padding: 5px;
+    margin: 10px auto;
+}
+.result h4{
+    font-size: 20px;
+}
